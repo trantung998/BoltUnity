@@ -961,21 +961,6 @@ Prefab:
       propertyPath: _data._json
       value: '{"nest":{"embed":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"isListening":false,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"defaultValues":{},"position":{"x":-204.0,"y":60.0},"guid":"60eed66c-2b12-4b25-9c8d-a3e8769bc268","$version":"A","$type":"Bolt.Update"},{"defaultValues":{},"position":{"x":-204.0,"y":-144.0},"guid":"4bba0da4-d529-401e-aac0-a196ca874173","$version":"A","$type":"Bolt.Start"}],"title":null,"summary":null,"$version":"A"},"source":"Macro","macro":0}}'
       objectReference: {fileID: 0}
-    - target: {fileID: 114641516287549418, guid: 9fab65f3a396eaf4fb2c796172ea03ca,
-        type: 2}
-      propertyPath: _data._json
-      value: '{"declarations":{"collection":{"$content":[{"name":"Speed","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-      objectReference: {fileID: 0}
-    - target: {fileID: 212169556484443374, guid: 9fab65f3a396eaf4fb2c796172ea03ca,
-        type: 2}
-      propertyPath: m_SortingLayerID
-      value: 1774774131
-      objectReference: {fileID: 0}
-    - target: {fileID: 212169556484443374, guid: 9fab65f3a396eaf4fb2c796172ea03ca,
-        type: 2}
-      propertyPath: m_SortingLayer
-      value: 4
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9fab65f3a396eaf4fb2c796172ea03ca, type: 2}
   m_IsPrefabParent: 0
