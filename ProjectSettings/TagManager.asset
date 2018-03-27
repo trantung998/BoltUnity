@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Enemy
+  - Key
+  - Projectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Platform
+  - Background
+  - Projectiles
+  - Enemies
+  - PlyerInvincible
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 308931705
+    locked: 0
+  - name: DecorationBg
+    uniqueID: 1927279863
+    locked: 0
+  - name: Platform
+    uniqueID: 1100009511
+    locked: 0
+  - name: Character
+    uniqueID: 1774774131
+    locked: 0
+  - name: DecorationOverlay
+    uniqueID: 4182212357
+    locked: 0
+  - name: Items
+    uniqueID: 3637629615
+    locked: 0
+  - name: Projectile
+    uniqueID: 3497145087
+    locked: 0
